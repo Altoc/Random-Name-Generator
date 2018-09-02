@@ -1,6 +1,7 @@
 /*		Random Name Generator
 *		Ian Whitesel
-*/		09/02/2018
+*		09/02/2018
+*/
 
 #ifndef GENERATOR_H
 #define GENERATOR_H
